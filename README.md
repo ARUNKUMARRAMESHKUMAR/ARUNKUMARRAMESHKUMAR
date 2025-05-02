@@ -7,9 +7,9 @@
 
 - 👨🏻‍🎓 I'am Currently studying **Bachelar Of Engineering**
 
-- 🌱 I’m currently learning **java script,Network,..etc**
+- 🌱 I’m currently learning ** Html,CSS,java script,java,,..etc**
 
-- 💯🚀🎯 AIM- **Network Engineer**
+- 💯🚀🎯 AIM- **JAVA FULLSTACK DEVELOPER**
 
 - 🗂️ My Mini Project [Smart Parking](https://github.com/ARUNKUMARRAMESHKUMAR/NAAN-MUDHALVAN.git)
 
